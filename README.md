@@ -8,12 +8,19 @@
 </p>
 
 <p align="center">
-  <a href="mailto:esproxyyt@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" />
+  <a href="mailto:esmari.swart@nintex.com">
+    <img src="https://img.shields.io/badge/Email-%23EB4432?logo=gmail&logoColor=white" />
   </a>
   <a href="https://linkedin.com/in/esmariswart">
     <img src="https://img.shields.io/badge/LinkedIn-%230a66c2.svg?logo=linkedin&logoColor=white" />
   </a>
+</p>
+
+<p align="center">
+  <sub>
+    Personal projects live at
+    <a href="https://github.com/EsmariSwart">github.com/EsmariSwart</a>
+  </sub>
 </p>
 
 ---
@@ -24,7 +31,8 @@
 - Daily work often involves **PowerShell**, **C#/.NET**, **JavaScript/TypeScript**, and E2E test tooling.  
 - Comfortable working close to both code and infrastructure to keep tests fast and reliable.  
 - Enjoy working with **Vue**, **TypeScript**, and modern tooling like **Vite**, **Tailwind**, and **Playwright**.  
-- Always looking for “side quests”: small tools, scripts and experiments that improve workflows for myself, my team and the wider company.
+- Big fan of automating the boring stuff to make space for more interesting problems.  
+- Always looking for “side quests”: small tools, scripts, and experiments that improve workflows for myself, my team, and the wider company.
 
 **Focus areas:** E2E and regression automation · CI integration · test tooling · improving developer feedback loops.
 
